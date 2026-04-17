@@ -47,5 +47,5 @@ The `/screenshots` directory contains documented proof of:
 This analysis is for **educational and research purposes only**. It was conducted to demonstrate security audit methodologies and to warn potential victims about fraudulent investment schemes.
 
 ---
-**Author**: [Your GitHub Handle]  
-**Field**: Cybernetics and Economic Informatics | Security Researcher
+**Author**: [stefxnut]  
+**Proofs**: https://imgur.com/a/YF7EQZK
