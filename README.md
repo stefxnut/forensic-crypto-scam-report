@@ -38,7 +38,7 @@ The platform implements aggressive device fingerprinting via the `_device_fp_v2`
 By manipulating the `localStorage` key `lang`, the interface was successfully forced into a Russian locale (`ru`), bypassing the intended UI flow and proving the lack of server-side state validation for localized sessions.
 
 ## 📁 Evidence
-The `/screenshots` directory contains documented proof of:
+The `proofs` above contains documented proof of:
 * API Response interceptions showing blocked withdrawal methods.
 * The device fingerprinting data extracted from the console.
 * Evidence of "Vibecoding" (Dead buttons and non-functional UI elements that exist only for visual deception).
